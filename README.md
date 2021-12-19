@@ -24,12 +24,8 @@ I am currently actively studying and working with:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html5" width="40" height="40"/>                               
 </p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJecksMan&layout=compact&hide=html" title="TheJecksMan"/>
-</p>
-
-
+                                                                                                                                                 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=TheJecksMan&count_private=true&theme=dark" title="TheJecksMan"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJecksMan&layout=compact&hide=html" title="TheJecksMan"/>
+</p>                                                                                                                                             
