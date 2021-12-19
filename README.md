@@ -4,7 +4,7 @@
 **TheJecksMan/TheJecksMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ### About me
 
-I'm student from Russian🎓;
+I'm student from Russia(2020-20XX)🎓;
 
 Areas of interest:computer::
 
