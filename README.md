@@ -26,5 +26,6 @@ I am currently actively studying and working with:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" title="django" width="40" height="40"/>
 </p>
                                                                                                                                                  
-<img src="https://github-readme-stats.vercel.app/api?username=TheJecksMan&count_private=true&theme=dark" title="TheJecksMan"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJecksMan&layout=compact&hide=html" title="TheJecksMan"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheJecksMan&count_private=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheJecksMan&layout=compact)
+                                                                                                                            
                                                                                                                                           
