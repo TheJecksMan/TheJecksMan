@@ -31,3 +31,7 @@ I am currently actively studying and working with:
  
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheJecksMan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJecksMan&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+#### Top Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheJecksMan&repo=Simple-Twitch-Watcher&show_owner=true)](https://github.com/TheJecksMan/Simple-Twitch-Watcher)
