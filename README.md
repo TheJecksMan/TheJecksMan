@@ -35,13 +35,3 @@ I am currently actively studying and working with:
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJecksMan&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-
-#### Top Repositories
-
-<a href="https://github.com/TheJecksMan/red-session">
-  <img height=110 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheJecksMan&repo=red-session&show_owner=true" />
-</a>
-<a href="https://github.com/TheJecksMan/Simple-Twitch-Watcher">
-  <img height=110 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheJecksMan&repo=Simple-Twitch-Watcher&show_owner=true" />
-</a>
