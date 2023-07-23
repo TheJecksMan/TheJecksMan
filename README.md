@@ -40,8 +40,8 @@ I am currently actively studying and working with:
 #### Top Repositories
 
 <a href="https://github.com/TheJecksMan/red-session">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheJecksMan&repo=red-session&show_owner=true" />
+  <img height=110 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheJecksMan&repo=red-session&show_owner=true" />
 </a>
 <a href="https://github.com/TheJecksMan/Simple-Twitch-Watcher">
-  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheJecksMan&repo=Simple-Twitch-Watcher&show_owner=true" />
+  <img height=110 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheJecksMan&repo=Simple-Twitch-Watcher&show_owner=true" />
 </a>
