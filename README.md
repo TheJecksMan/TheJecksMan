@@ -22,11 +22,11 @@ I am currently actively studying and working with:
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" title="mysql" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" title="redis" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" title="docker" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original-wordmark.svg" title="go" width="40" height="40" />
 </p>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
